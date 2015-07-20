@@ -8,7 +8,7 @@ This note is inspire by [duykhoa's SaigonTraveler](https://github.com/duykhoa/Sa
 
 # Table of Content
 
-- [Viet Nam](#)
+- [Viet Nam](/vietnam)
   + [Sai Gon (Ho Chi Minh City)](https://github.com/duykhoa/SaigonTraveler)
   + [Ha Noi](#)
   + [Sapa](#)
