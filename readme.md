@@ -4,7 +4,7 @@ This note contain things I know about places I went to.
 I hope that these tips & tricks can be helpful to my friends and others when they travel
 to those places.
 
-This note is inspire by [duykhoa's SaigonTraveler](https://github.com/duykhoa/SaigonTraveler)
+This note is inspired by [duykhoa's SaigonTraveler](https://github.com/duykhoa/SaigonTraveler)
 
 # Table of Content
 
