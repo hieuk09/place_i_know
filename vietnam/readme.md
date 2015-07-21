@@ -2,7 +2,7 @@
 
 ## Places to go
 
-- [Sai Gon (Ho Chi Minh City)](https://github.com/giangnguyennet/SaigonTraveler)
+- [Sai Gon (Ho Chi Minh City)](https://github.com/duykhoa/SaigonTraveler)
 - [Ha Noi](#)
 - [Sapa](#)
 - [Tay Bac (Son La, Dien Bien)](#)
