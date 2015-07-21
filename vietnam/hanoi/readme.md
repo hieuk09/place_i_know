@@ -24,10 +24,13 @@ Welcome To Ha Noi!
   price is about 40.000 VND. Minibuses leave the airport when full. They will
   only stop at pre-determined destinations, so you may need to use taxi to go to your
   hotel.
-  ![1](images/minibus.jpg)
+
+  ![1](https://github.com/hieuk09/place_i_know/blob/master/images/minibus.jpg)
+
 - Taxi: Grab taxi, Mai Linh (04) 38 61 61 61, Airport Taxi (04) 38 733 333
 - Motobike (xe ôm) - not recommend
 - Cyclo: if you want to travel around Pho Co Ha Noi, try it
+
   ![2](http://www.allvietnam.com/wp-content/uploads/2015/04/xich-lo.jpg)
 
 ## Hotel
