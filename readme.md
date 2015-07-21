@@ -10,7 +10,7 @@ This note is inspired by [duykhoa's SaigonTraveler](https://github.com/duykhoa/S
 
 - [Viet Nam](/vietnam)
   + [Sai Gon (Ho Chi Minh City)](https://github.com/duykhoa/SaigonTraveler)
-  + [Ha Noi](#)
+  + [Ha Noi](/vietnam/hanoi)
   + [Sapa](#)
   + [Tay Bac (Son La, Dien Bien)](#)
   + [Da Nang](#)
