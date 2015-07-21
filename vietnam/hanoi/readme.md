@@ -8,7 +8,7 @@ Welcome To Ha Noi!
 - [Hotel](#hotel)
 - [Medicine & Facemask](#medicine--face-mask)
 - [Coffee](#coffee)
-- [Eat](#eat)
+- [Food](#food)
 - [Bar](#bar--beer)
 - [Shopping](#shopping)
 - [Tours](#tours)
@@ -46,6 +46,12 @@ in the hospital or around the street.
 
 ## Coffee
 
+### Tip:
+
+1. You can use foody (http://www.foody.vn), you scroll down to the bottom, click on English to switch the languages.
+2. you can copy the address and paste them to google maps or show to the taxi drivers.
+3. Quận or Q. is District, P. or Phường is Ward
+
 Like Sai Gon, Ha Noi also have a lot of coffee shops, here are some:
 
 - Cong Coffee
@@ -58,7 +64,22 @@ Like Sai Gon, Ha Noi also have a lot of coffee shops, here are some:
 
 - Urban station
 
-## Eat
+## Food
+
+- Some traditional food in Ha Noi that you must try
+  + Bánh đa cua, bún tôm: [An Bien restaurent](http://www.foody.vn/ha-noi/an-bien-banh-da-cua)
+  + Bún đậu mắm tôm
+  + Bún chả
+  + Chả cá:
+    * [Chả cá Lã Vọng](http://www.tripadvisor.com.vn/Restaurant_Review-g293924-d808374-Reviews-Cha_Ca_La_Vong-Hanoi.html)
+    * [Chả cá Anh Vũ](http://www.tripadvisor.com.vn/Restaurant_Review-g293924-d3778660-Reviews-Cha_Ca_Anh_Vu-Hanoi.html)
+  + [Phở cuốn](http://www.foody.vn/ha-noi/pho-cuon-huong-mai)
+
+- You can also try [street food tour](http://www.tripadvisor.com.vn/Attraction_Review-g293924-d5583955-Reviews-Hanoi_Street_Food_Tour-Hanoi.html)
+- There are many foreign restaurants as well:
+  + [Sumo BBQ](http://www.tripadvisor.com.vn/Restaurant_Review-g293925-d2403757-Reviews-Sumo_BBQ-Ho_Chi_Minh_City.html)
+  + [Mexican food](http://www.tripadvisor.com.vn/Restaurant_Review-g293924-d4942562-Reviews-Latino_Restaurant_Tapas_Bar-Hanoi.html)
+  + [Indian food](http://www.foody.vn/ha-noi/namaste-hanoi-am-thuc-an-do)
 
 ## Bar
 
