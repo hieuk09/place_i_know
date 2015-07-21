@@ -1,6 +1,7 @@
 # Ha Noi
 
-Welcome To Ha Noi!
+Welcome To Ha Noi! You might want to check [Viet Nam](..) for some
+common information about Viet Nam.
 
 ## Table of contents
 
