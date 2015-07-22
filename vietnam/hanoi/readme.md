@@ -88,6 +88,15 @@ Like Sai Gon, Ha Noi also have a lot of coffee shops, here are some:
 
 ## Tours
 
+- [A tour around Ha Noi](https://www.triip.me/ha-noi/hanoi-big-city-tour-448/)
+- [Hoan Kiem Lake](https://www.triip.me/ha-noi/a-small-tour-around-sword-lake-522/)
+- [Ho Chi Minh Complex](https://www.triip.me/ha-noi/discover-ho-chi-minh-complex-and-hanoi-exotic-food-1897/)
+- [Bat Trang Ceramic Village](https://www.triip.me/ha-noi/one-day-in-bat-trang-ceramic-village-571/)
+- [The Imperial Citadel of Thang Long](https://www.triip.me/ha-noi/the-imperial-citadel-of-thang-long-ha-noi-a-world-heritage-site-7567/)
+- [Tam Dao](https://www.triip.me/ha-noi/tam-dao-be-in-nature-and-refresh-487/)
+- Temple of Literature
+- West Lake
+
 ## Notes
 
 ## Resources
