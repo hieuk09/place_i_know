@@ -10,8 +10,6 @@ common information about Viet Nam.
 - [Medicine & Facemask](#medicine--face-mask)
 - [Coffee](#coffee)
 - [Food](#food)
-- [Bar](#bar--beer)
-- [Shopping](#shopping)
 - [Tours](#tours)
 - [Notes](#notes)
 - [Resource](#resources)
@@ -82,10 +80,6 @@ Like Sai Gon, Ha Noi also have a lot of coffee shops, here are some:
   + [Mexican food](http://www.tripadvisor.com.vn/Restaurant_Review-g293924-d4942562-Reviews-Latino_Restaurant_Tapas_Bar-Hanoi.html)
   + [Indian food](http://www.foody.vn/ha-noi/namaste-hanoi-am-thuc-an-do)
 
-## Bar
-
-## Shopping
-
 ## Tours
 
 - [A tour around Ha Noi](https://www.triip.me/ha-noi/hanoi-big-city-tour-448/)
@@ -95,7 +89,7 @@ Like Sai Gon, Ha Noi also have a lot of coffee shops, here are some:
 - [The Imperial Citadel of Thang Long](https://www.triip.me/ha-noi/the-imperial-citadel-of-thang-long-ha-noi-a-world-heritage-site-7567/)
 - [Tam Dao](https://www.triip.me/ha-noi/tam-dao-be-in-nature-and-refresh-487/)
 - Temple of Literature
-- West Lake
+- West Lake, Valley of Flowers
 
 ## Notes
 
