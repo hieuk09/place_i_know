@@ -72,7 +72,15 @@ Like Sai Gon, Ha Noi also have a lot of coffee shops, here are some:
   + Chả cá:
     * [Chả cá Lã Vọng](http://www.tripadvisor.com.vn/Restaurant_Review-g293924-d808374-Reviews-Cha_Ca_La_Vong-Hanoi.html)
     * [Chả cá Anh Vũ](http://www.tripadvisor.com.vn/Restaurant_Review-g293924-d3778660-Reviews-Cha_Ca_Anh_Vu-Hanoi.html)
+    * [Chả cá lão ngư](http://www.foody.vn/ha-noi/lao-ngu-cha-ca)
   + [Phở cuốn](http://www.foody.vn/ha-noi/pho-cuon-huong-mai)
+  + [Sữa chua nếp cẩm (tô tịch)](http://diachiso.vn/ha-noi/hoan-kiem/to-tich)
+  + Phở
+    * [Phở sướng](http://www.foody.vn/ha-noi/pho-suong-nguyen-hong)
+    * [Phở xào bát đàn](http://www.foody.vn/ha-noi/pho-xao-phu-my-bat-dan) (a little bit expensive)
+  + [Quán ngon](http://www.foody.vn/ha-noi/nha-hang-ngon)
+  + [Nem chua rán gần svd Hàng Đẫy](https://www.facebook.com/pages/Nem-Chua-R%C3%A1n-S%C3%A2n-V%E1%BA%ADn-%C4%90%E1%BB%99ng-H%C3%A0ng-%C4%90%E1%BA%ABy/281219255233627)
+
 
 - You can also try [street food tour](http://www.tripadvisor.com.vn/Attraction_Review-g293924-d5583955-Reviews-Hanoi_Street_Food_Tour-Hanoi.html)
 - There are many foreign restaurants as well:
